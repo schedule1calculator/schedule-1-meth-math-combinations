@@ -21,7 +21,7 @@ The current meta for schedule 1 meth combinations has evolved significantly, wit
 | Gasoline, Cuke, Battery, Mega Bean | $203 | Zombifying, Cyclopean, Bright-Eyed, Foggy |
 | Cuke, Viagra, Mega Bean | $167 | Cyclopean, Tropic Thunder, Foggy |
 
-&gt;&gt;&gt;&gt;&gt;&gt; Use our [Meth Calculator](/mixing-calculator) to get the best meth mix
+&gt;&gt;&gt;&gt;&gt;&gt; Use our [Schedule 1 Mixing Calculator](/mixing-calculator) to get the best meth mix
 
 ## Advanced Strategies for Optimizing Schedule 1 Meth Combinations
 
